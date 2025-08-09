@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMEI José Paulino Nogueira - Criatividade com Massinha</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #f0f9ff;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .logo {
+            max-width: 150px;
+            margin-bottom: 10px;
+        }
+        
+        .main-content {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .highlight {
+            font-size: 1.5em;
+            color: #FF5722;
+            text-align: center;
+            margin: 30px 0;
+            font-weight: bold;
+        }
+        
+        .image-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin: 30px 0;
+        }
+        
+        .image-gallery img {
+            width: 200px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 10px;
+            border: 3px solid #FFC107;
+        }
+        
+        .benefits {
+            background-color: #E8F5E9;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        
+        .footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://via.placeholder.com/150x80?text=EMEI+José+Paulino" alt="Logo EMEI José Paulino Nogueira" class="logo">
+        <h1>EMEI José Paulino Nogueira</h1>
+    </div>
+    
+    <div class="main-content">
+        <div class="highlight">
+            "Hoje a imaginação tomou conta: unhas de massinha para brincar e se divertir!"
+        </div>
+        
+        <p>Na nossa escola, acreditamos que a criatividade é essencial para o desenvolvimento das crianças. A atividade com massinha de modelar é uma das favoritas dos nossos pequenos artistas!</p>
+        
+        <div class="image-gallery">
+            <img src="https://via.placeholder.com/200x150?text=Crianças+brincando" alt="Crianças brincando com massinha">
+            <img src="https://via.placeholder.com/200x150?text=Unhas+de+massinha" alt="Unhas decoradas com massinha">
+            <img src="https://via.placeholder.com/200x150?text=Criações+criativas" alt="Criações com massinha">
+        </div>
+        
+        <div class="benefits">
+            <h2>Por que trabalhar com massinha é importante?</h2>
+            <ul>
+                <li>Desenvolve a coordenação motora fina</li>
+                <li>Estimula a criatividade e imaginação</li>
+                <li>Ajuda na expressão de sentimentos e ideias</li>
+                <li>Promove o trabalho em equipe quando feito em grupo</li>
+                <li>Favorece a concentração e atenção</li>
+               
+            </ul>
+        </div>
+        
+        <p>Nossas atividades com massinha são sempre supervisionadas por educadores e fazem parte do projeto pedagógico de desenvolvimento integral das crianças.</p>
+    </div>
+    
+    <div class="footer">
+        <p>EMEI José Paulino Nogueira - Fase 1 C- Turma Girafa</p>
+        
+    </div>
+</body>
+</html>
